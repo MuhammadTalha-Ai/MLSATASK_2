@@ -24,7 +24,7 @@ const imageAltText = "A sample a work space image. Replace this with your own";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a Data Science and AI Enthusiast. I am currently pursuing my Bachelors in Computer Science from University of Karachi. I am a self-taught programmer and I love to learn new things. I am passionate about Data Science and Artificial Intelligence. I am a hardworking and a dedicated person.I am a good problem solver and I love to solve problems. I am a good leader and I love to lead people.";
+  "I am a Data Science and AI Enthusiast. I am currently pursuing my Bachelors in Computer Science from University of Karachi. I am a self-taught programmer and I love to learn new things. I am passionate about Data Science and Artificial Intelligence. I am a hardworking and a dedicated person.I am a good problem solver and I love to solve problems.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
