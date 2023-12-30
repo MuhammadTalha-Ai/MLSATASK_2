@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Muhammad Talha",
-  title: "Data Scinece and AI Enthusiast",
+  title: "Data Science and AI Enthusiast",
   email: "muhammadtalhap611@gmail.com",
   gitHub: "MuhammadTalha-Ai",
   instagram: "talha___panhwar",
