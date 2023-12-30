@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/bk1.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "A sample a work space image. Replace this with your own";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a Data Science and AI Enthusiast. I am currently pursuing my Bachelors in Computer Science from University of Karachi. I am a self-taught programmer and I love to learn new things. I am passionate about Data Science and Artificial Intelligence. I am a hardworking and a dedicated person. I am a quick learner and I love to learn new things. I am a team player and I love to work in a team. I am a good communicator and I love to communicate with people. I am a good listener and I love to listen to people. I am a good problem solver and I love to solve problems. I am a good leader and I love to lead people. I am a good teacher and I love to teach people. I am a good learner and I love to learn from people. I am a good follower and I love to follow people. I am a good friend and I love to be friends with people. I am a good human being and I love to be a human being.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science",
+  "Artificial Intelligence",
+  "Machine Learning",
+  "Deep Learning",
+  "Computer Vision",
+  "Natural Language Processing",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "This my profile where you can find my open source projects.";
 
 const About = () => {
   return (

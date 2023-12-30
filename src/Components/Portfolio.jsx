@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/bk2.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Muhammad Talha - Data Science and AI Enthusiast This is a sample image. Replace this with your own.";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My GitHub Profile",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This my GitHub profile where you can find my open source projects.",
+    url: "https://github.com/MuhammadTalha-Ai",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My LinkedIn Profile",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This my LinkedIn profile where you can find my the details of my professional career.",
+    url: "https://www.linkedin.com/in/muhammad-talha-ai/",
   },
   {
-    title: "My Resume Site",
+    title: "My Projects on GitHub",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This my GitHub profile where you can find my open source projects.",
+    url: "https://muhammadtalha-ai.github.io/MLSATASK_1/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Instagram Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This my Instagram profile where you can find my the details of my personal life and school life.",
+    url: "https://www.instagram.com/talha___panhwar/?next=%2F",
   },
 ];
 
